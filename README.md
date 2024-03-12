@@ -10,7 +10,7 @@ Delete tasks by selecting them and clicking the "Delete Task" button.
 Dependencies
 Python 3.x
 tkinter
-Example:  [To-Do List Screenshot](to-do-list.png)
+Example:  [to-do-list.png]
 
 Calculator
 Description
@@ -22,7 +22,7 @@ Input numbers and perform calculations using the buttons provided.
 Dependencies
 Python 3.x
 tkinter
-Example:      [calculator Screenshot](cal.png)
+Example:      [cal.png]
 
 Password Generator
 Description
@@ -35,5 +35,5 @@ Click the "Generate Password" button to generate a password.
 Click the "Copy to Clipboard" button to copy the generated password.
 Dependencies
 Python 3.x
-Example:       [password-generator Screenshot](pass.png)
+Example:       [pass.png]
 
