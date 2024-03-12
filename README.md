@@ -8,9 +8,8 @@ This Python script implements a simple to-do list application using tkinter for 
 
 Usage:
 ------
-Run the script to_do_list.py.
+Run the script to-do-list.py.
 Add tasks by typing them into the input field and pressing Enter or clicking the "Add Task" button.
-Mark tasks as completed by clicking on them.
 Delete tasks by selecting them and clicking the "Delete Task" button.
 
 Dependencies:
@@ -59,10 +58,10 @@ This Python script generates random passwords based on user specifications.
 
 Usage:
 ------
-Run the script password_generator.py.
-Enter the desired length of the password and select any additional options (e.g., include digits, include special characters).
+Run the script password-generator.py.
+Enter the desired length of the password and select any additional options (e.g., poor,average,advanced).
 Click the "Generate Password" button to generate a password.
-Click the "Copy to Clipboard" button to copy the generated password.
+Then "Copy" the generated password.
 
 Dependencies:
 ------------
