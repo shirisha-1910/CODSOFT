@@ -2,6 +2,7 @@ TO-DO LIST
 ===========
 
 #Description:
+-------------
 
 This Python script implements a simple to-do list application using tkinter for the graphical interface.
 
