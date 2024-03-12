@@ -10,7 +10,7 @@ Delete tasks by selecting them and clicking the "Delete Task" button.
 Dependencies
 Python 3.x
 tkinter
-Example:  [to-do-list.png]
+Example:  [to-do-list.png](to-do-list.png)
 
 Calculator
 Description
